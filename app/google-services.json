@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "402720799276",
+    "project_id": "lab7-kotlin",
+    "storage_bucket": "lab7-kotlin.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402720799276:android:eef66bbbb2b10571b6af89",
+        "android_client_info": {
+          "package_name": "my.app.for.nulp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlFYQzFH8DveGJd6x5mG7nHejyfE0jH0k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
